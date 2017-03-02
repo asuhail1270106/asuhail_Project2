@@ -15,16 +15,6 @@ h1
   font-size: 1.3em;
 }
 
-nav
-{
-  padding: 3px;
-  text-transform: uppercase;
-  letter-spacing: 6px;
-  color: blue;
-  font-size: 11px;
-  text-align: left;
-}
-
 .colorful 
 {
   color: orange;
