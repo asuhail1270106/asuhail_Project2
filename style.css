@@ -17,13 +17,13 @@ h1
 
 nav
 {
-  background-color: #5fdec3;
+  background-color: red;
   padding: 3px;
   text-transform: uppercase;
   letter-spacing: 6px;
-  color: #bdffcb;
+  color: blue;
   font-size: 11px;
-  text-align: center;
+  text-align: left;
 }
 
 .colorful 
