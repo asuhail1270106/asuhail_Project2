@@ -15,11 +15,15 @@ h1
   font-size: 1.3em;
 }
 
-horz ul li
+nav
 {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
+  background-color: #5fdec3;
+  padding: 3px;
+  text-transform: uppercase;
+  letter-spacing: 6px;
+  color: #bdffcb;
+  font-size: 11px;
+  text-align: center;
 }
 
 .colorful 
