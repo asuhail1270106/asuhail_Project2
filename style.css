@@ -1,22 +1,10 @@
-
 body 
 {
-  background-color: darkslategrey;
-  color: azure;
-  font-size: 1.1em;
+  background-color: lightblue;
 }
 
 h1 
 {
-  color: coral;
-}
-
-#intro 
-{
-  font-size: 4.3em;
-}
-
-.colorful 
-{
-  color: orange;
+  color: navy;
+  margin-left: 20px;
 }
