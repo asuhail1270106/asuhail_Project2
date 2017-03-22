@@ -21,6 +21,13 @@ h3
   color: #00008B;
 }
 
+.center
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 ul#list-nav 
 {
   list-style:none;
