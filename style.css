@@ -26,9 +26,6 @@ h3
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100%; 
-  max-width: 80em; 
-  margin: auto;
 }
 
 ul#list-nav 
@@ -60,4 +57,11 @@ ul#list-nav li a:hover
 {
   background:#a2b3a1;
   color:#000
+}
+
+#wrap
+{
+  height: 100%; 
+  max-width: 80em; 
+  margin: auto;
 }
