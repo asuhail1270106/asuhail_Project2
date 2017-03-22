@@ -26,7 +26,16 @@ h3
   display: flex;
   justify-content: center;
   align-items: center;
+  position: relative
 }
+
+.center p 
+{
+  margin: 0;
+  position: absolute;               
+  top: 50%;                         
+  transform: translate(0, -50%) 
+} 
 
 ul#list-nav 
 {
