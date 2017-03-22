@@ -29,14 +29,6 @@ h3
   position: relative
 }
 
-.center h2
-{
-  margin: 0;
-  position: absolute;               
-  top: 50%;                         
-  transform: translate(0, -50%) 
-} 
-
 ul#list-nav 
 {
   list-style:none;
