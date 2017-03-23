@@ -499,10 +499,10 @@ h3
 
 .image 
 {
- width: 30em;
- position: relative;
+ width: 5em;
+ position: fixed;
  right: 0;
- top: 10em;
+ top: 5em;
 }
 
 ul#list-nav 
