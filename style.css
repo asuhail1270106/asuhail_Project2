@@ -7,6 +7,12 @@ body
   font-size: 1.1em;
 }
 
+html
+{
+  padding-right: 7em;
+  padding-left: 7em;
+}
+
 h1 
 {
   color: #191970;
