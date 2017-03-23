@@ -494,7 +494,15 @@ h3
   display: flex;
   justify-content: center;
   align-items: center;
-  position: relative
+  position: relative;
+}
+
+.image 
+{
+ width: 30em;
+ position: relative;
+ right: 0;
+ top: 10em;
 }
 
 ul#list-nav 
