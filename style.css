@@ -32,8 +32,8 @@ h3
 ul#list-nav 
 {
   list-style:none;
-  margin:20px;
-  padding:0;
+  margin: 0;
+  padding: 0;
   width:525px
 }
 
