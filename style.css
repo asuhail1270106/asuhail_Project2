@@ -39,7 +39,8 @@ ul#list-nav
 
 ul#list-nav li 
 {
-  display:inline
+  float: left;
+  /*display:inline*/
 }
 
 ul#list-nav li a 
