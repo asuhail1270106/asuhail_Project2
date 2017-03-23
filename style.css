@@ -31,10 +31,10 @@ h3
 
 ul#list-nav 
 {
-  list-style:none;
+  list-style-type: none;
   margin: 0;
   padding: 0;
-  width:525px
+  overflow: hidden;
 }
 
 ul#list-nav li 
