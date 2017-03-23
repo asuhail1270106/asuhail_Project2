@@ -462,7 +462,6 @@ template {
 
 body 
 {
-  background-color: linen;
   background-image: url("pictures/wsb-project2-bg.jpg");
   font-family: 'Times New Roman', sans-serif;
   color: red;
@@ -509,7 +508,6 @@ ul#list-nav
 ul#list-nav li 
 {
   float: left;
-  /*display:inline*/
 }
 
 ul#list-nav li a 
